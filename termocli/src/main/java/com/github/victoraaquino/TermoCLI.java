@@ -14,7 +14,6 @@ import java.util.Scanner;
 import java.util.regex.Pattern;
 
 public class TermoCLI {
-    static String webservice = "https://api.dicionario-aberto.net/random";
 
     public static void main(String[] args) throws IOException, InterruptedException {
 
